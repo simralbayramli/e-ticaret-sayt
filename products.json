@@ -1,0 +1,182 @@
+[
+    {
+        "id":12345678,
+        "name": "Iphone 14 pro",
+        "endirim":"2%",
+        "price":"4500 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg",
+        "model":"Mobil telefon"
+
+    },
+
+    {
+        "id":12398678,
+        "name": "Samsung ",
+        "endirim":"30%",
+        "price":"1500 AZN",
+        "isSold":false,
+        "img":"https://samsungcarecentre.com/wp-content/uploads/2021/04/samsung-galaxy-S20-ultra-spare-parts-price-in-india-768x432.jpg"
+
+
+    },{
+        "id":12375478,
+        "name": "Samsung ",
+        "endirim":"25%",
+        "price":"3000 AZN",
+        "isSold":true,
+        "img":"https://1.bp.blogspot.com/-ubbZPsXq1Ro/Wx5VNXmR8fI/AAAAAAAACLQ/Yt3jUusbh7QOfQyQ1WjRQofw13p77XcTwCLcBGAs/s1600/525785.jpg"
+
+
+    },{
+        "id":12364578,
+        "name": "Esen Mobilya ",
+        "endirim":"15%",
+        "price":"2000 AZN",
+        "isSold":true,
+        "img":"https://esenmobilya.com.tr/wp-content/uploads/2016/03/moda.jpg"
+
+
+    },{
+        "id":12345878,
+        "name": "Esen Mobilya ",
+        "endirim":"20%",
+        
+        "price":"2500 AZN",
+        "isSold":true,
+        "img":"https://www.dekorstore.net/wp-content/uploads/2014/03/yeni-weltew-oturma-grubu.jpg"
+
+
+    },{
+        "id":12344678,
+        "name": "Iphone ",
+        "endirim":"30%",
+        "price":"1000 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    },{
+        "id":12333678,
+        "name": "Beko",
+        "endirim":"12%",
+        "price":"800 AZN",
+        "isSold":true,
+        "img":"https://img.akrep.com/beyaz-esya-ve-ev-aletleri/camasir-makinesi/tn6/beko-d2-5061-b_1_293495.jpg"
+         
+
+    }
+    ,{
+        "id":12377678,
+        "name": "Beko",
+        "endirim":"10%",
+        "price":"200 AZN",
+        "isSold":true,
+        "img":"https://cdn.mayyo.com/resimler/urun/20147d2626649a741bccb0ea2e0f863e.jpg"
+
+
+    },
+    {
+        "id":12345678,
+        "name": "Beko",
+        "endirim":"50%",
+        "price":"1000 AZN",
+        "isSold":true,
+        "img":"https://pbs.twimg.com/media/DOF-wnUWAAALjED.jpg"
+
+    },
+
+    {
+        "id":12398678,
+        "name": "Samsung ",
+        "endirim":"30%",
+        "price":"1500 AZN",
+        "isSold":false,
+        "img":"https://a.allegroimg.com/s1024/0cbe4c/07d554fb4db780f64ad2848a5f56"
+
+
+    },{
+        "id":12375478,
+        "name": "Samsung ",
+        "endirim":"25%",
+        "price":"3000 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    },{
+        "id":12364578,
+        "name": "Samsung ",
+        "endirim":"15%",
+        "price":"2000 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    },{
+        "id":12345878,
+        "name": "Samsung ",
+        "endirim":"20%",
+        
+        "price":"2500 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    },{
+        "id":12344678,
+        "name": "Iphone ",
+        "endirim":"30%",
+        "price":"1000 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    },{
+        "id":12333678,
+        "name": "Iphone ",
+        "endirim":"12%",
+        "price":"800 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+         
+
+    }
+    ,{
+        "id":12377678,
+        "name": "Iphone ",
+        "endirim":"10%",
+        "price":"200 AZN",
+        "isSold":true,
+        "img":"https://cdn.mos.cms.futurecdn.net/Y8APagm5CTdzu4dwyQpnEh-1200-80.jpg"
+
+
+    }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+]
